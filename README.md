@@ -1,12 +1,8 @@
 Learning Mavo
 
-# V_2
+# V_1
+    [] html sketch
+    [] Add bootstrap
     [] Add Mavo Code
         https://mavo.io/docs/primer
-    [] Add bootstrap
 
-# V_1
-    [] Using html pug
-        https://pugjs.org/language/attributes.html
-    [] Using Sass
-        https://sass-lang.com/
