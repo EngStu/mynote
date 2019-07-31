@@ -1,0 +1,19 @@
+{
+  "name": "mynote",
+  "version": "1.0.0",
+  "description": "Learning Mavo https://mavo.io/docs/primer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://EngStu:AreUgitMindfu1@github.com/EngStu/mynote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EngStu/mynote/issues"
+  },
+  "homepage": "https://github.com/EngStu/mynote#readme"
+}
